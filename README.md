@@ -4,6 +4,16 @@ Houd je leerproces routinematig (chronologisch) bij. Noteer aantekeningen, inter
 
 Je leert aantekeningen bijhouden en gestructureerd studeren. Tijdens de Retrospect ga je regelmatig terugkijken naar wat je allemaal hebt gedaan en geleerd. Daarvoor heb je de I Love Web nodig als bewijslast.
 
+## Wat is de i-love-web?
+In deze repository vind je een overzicht van alles wat ik doe op de opleiding. Van lessen en aantekeningen tot technische code; het staat er allemaal in. 
+
+Zie hieronder de onderdelen waar ik op DIT moment mee bezig ben. In de markdown pagina’s hierboven kan je makkelijk zien wat ik in totaal gemaakt heb.
+
+## Wat doe ik op dit moment?
+- [the-client-website](https://github.com/saschavanvliet/the-client-website) --> Maak een website voor een opdrachtgever die je zelf hebt gekozen.
+- [We Love Web](https://github.com/saschavanvliet/i-love-web/wiki/We-Love-Web#2024-2025-presentaties) --> Presentaties internationale ontwikkelingen gastsprekers
+
+
 ### Semester 1
 Maak met HTML, CSS en JS je eigen statische website. Hou je voortgang bij in de Wiki met Markdown, of voeg dit ook als HTML bestanden toe aan je website. Alles mag.
 
@@ -19,3 +29,6 @@ De instructie voor de I Love Web vind je in: [INSTRUCTIONS](https://github.com/f
 ## Licentie
 
 This project is licensed under the terms of the [MIT license](./LICENSE).
+
+
+![HD-wallpaper-pink-anime-aesthetic-laptop-kawaii-aesthetic-thumbnail](https://github.com/user-attachments/assets/380859b0-0e7b-4755-a28c-634619d57ebe)
