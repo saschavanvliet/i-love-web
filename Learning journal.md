@@ -17,3 +17,28 @@ Wat kan absoluut niet in een breakdown schets?
 2 dingen die ik interessant vind:
 
 1 ding waar ik nog vragen over heb:
+
+
+## Sprint 3
+
+### WCAG audit + user experience html
+16 oktober 2024
+
+1. Wat heb ik vandaag gedaan?
+
+Vandaag heb ik mijn WCAG audit gepresenteerd. Ik heb een audit gedaan op mijn middelbare school site en ik heb verteld hoe ik dit heb gedaan. Ik heb ook een workshop gevolgd over hoe ik mijn html toegankelijker kan maken door bijvoorbeeld 'alt' toe te voegen en 'labels'. 
+
+2. 3 dingen die ik heb geleerd
+- Ik heb geleerd hoe ik via mijn keyboard een link kan downloaden
+- Ik heb geleerd hoe ik een accordion maak
+- Ik heb geleerd hoe ik een formulier stijl.
+  
+3. Beschrijf alle 6 onderwerpen uit de workshop en noteer welke je toe kan passen in je opdracht.
+- Links
+- Afbeeldingen
+- Labels voor invoervelden
+- Meer informatie en accordeons (progressive disclosure)
+- Geavanceerd: Popups
+- Headings
+
+
