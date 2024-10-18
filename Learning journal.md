@@ -41,4 +41,15 @@ Vandaag heb ik mijn WCAG audit gepresenteerd. Ik heb een audit gedaan op mijn mi
 - Geavanceerd: Popups
 - Headings
 
+18 oktober
+
+1. Wat heb ik vandaag gedaan?
+Vandaag heb ik een code review gegeven en gekregen. Ik heb dit gedaan aan de hand van verschillende checklists die ons aangereikt zijn vanuit de opleiding.
+2. Uitbreiding van de checklist code & design review.
+   - Lighthouse test
+   - Keyboard
+   - Text-size naar 200%
+   - Gebruik geen auto-focus
+   - Algemene woordenschat gebruiken op de website
+
 
