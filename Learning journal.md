@@ -51,5 +51,14 @@ Vandaag heb ik een code review gegeven en gekregen. Ik heb dit gedaan aan de han
    - Text-size naar 200%
    - Gebruik geen auto-focus
    - Algemene woordenschat gebruiken op de website
+  
+21 oktober
+Wat heb ik vandaag gedaan?
+Ik heb vandaag een workshop gevolgd over kleurencontrast. Het is super belangrijk om gebruik te maken van een goed contrast in je website. Er werden meerdere manieren getoond hoe je contrast kan implementeren. Aan het einde van de workshop moesten we deze methodes toepassen op onze eigen site.
+
+Wat heb ik vandaag geleerd?
+- Ik heb geleerd dat je naast kleuren zoveel mogelijk aanvullende tekst moet toevoegen. Zo kan een kleurenblind persoon soms niet bepaalde kleuren uit elkaar houden. Kijk bijvoorbeeld naar een energielabel. Dan is het handig om buiten het plaatje ook letters toe te voegen op chronologische volgorde.
+- Ik heb geleerd wat border-image: fill 0 is en dat je hiermee een achtergrond kan veranderen zodat er een beter contrast is.
+- Ik heb geleerd dat je voor tekst een warme kleur moet gebruiken en voor een achtergrond een koude kleur.
 
 
