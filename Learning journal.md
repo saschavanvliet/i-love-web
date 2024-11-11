@@ -61,4 +61,13 @@ Wat heb ik vandaag geleerd?
 - Ik heb geleerd wat border-image: fill 0 is en dat je hiermee een achtergrond kan veranderen zodat er een beter contrast is.
 - Ik heb geleerd dat je voor tekst een warme kleur moet gebruiken en voor een achtergrond een koude kleur.
 
+11 november
+
+Wat heb ik vandaag geleerd?
+
+3 dingen
+Hoe ga je met je team deze teamopdracht maken?
+
+Waar ga je afsprakenbijhouden? (teamcanvas)
+
 
