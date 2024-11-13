@@ -68,6 +68,16 @@ Wat heb ik vandaag geleerd?
 3 dingen
 Hoe ga je met je team deze teamopdracht maken?
 
-Waar ga je afsprakenbijhouden? (teamcanvas)
+Waar ga je afspraken bijhouden? (teamcanvas)
+
+13 november
+
+Wat heb ik vandaag gedaan? Voeg links toe naar voorbeelden en bronnen.
+https://developer.mozilla.org/en-US/docs/Learn/CSS/Building_blocks/Cascade_and_inheritance
+https://css-tricks.com/specifics-on-css-specificity/ 
+
+Bedenk ook: 
+- Hoe ga je nieuwe CSS code in de gemeenschappelijke en in je eigen code verwerken?
+- Waar ga je afspraken over jullie CSS strategie met je teamgenoten documenteren?
 
 
