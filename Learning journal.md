@@ -80,4 +80,11 @@ Bedenk ook:
 - Hoe ga je nieuwe CSS code in de gemeenschappelijke en in je eigen code verwerken?
 - Waar ga je afspraken over jullie CSS strategie met je teamgenoten documenteren?
 
+18 november
 
+Documenteer wat je vandaag hebt gedaan. Voeg links toe naar voorbeelden en bronnen.
+
+Schrijf drie dingen die je geleerd hebt
+- Ik heb geleerd om zelf een font te maken en deze te
+
+Schrijf op wat je nu gaat doen
