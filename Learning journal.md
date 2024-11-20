@@ -88,3 +88,10 @@ Schrijf drie dingen die je geleerd hebt
 - Ik heb geleerd om zelf een font te maken en deze te
 
 Schrijf op wat je nu gaat doen
+
+20 november
+Beschrijf 3 dingen die je hebt geleerd over HTML, en link naar goede bronnen.
+
+Beschrijf 3 dingen die je hebt geleerd over CSS, en link naar goede bronnen.
+
+Beschrijf voor beide onderwerpen iets dat je kunt gebruiken en gaat toepassen in de leertaak.
