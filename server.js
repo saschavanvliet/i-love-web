@@ -26,6 +26,10 @@ app.get('/', async function (request, response) {
     response.render('index.liquid',)
   })
 
+app.get('/we-love-web/', async function (request, response) {
+    response.render('we-love-web.liquid',)
+  })
+
 // Ik heb het poortnummer ingesteld waar express op moet gaan luisteren. Ik heb de port het nummer 8080 gegeven zodat deze niet hetzelfde is als mijn visitekaartje.
 app.set('port', process.env.PORT || 2002)
 
