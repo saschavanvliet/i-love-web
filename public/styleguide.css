@@ -1,0 +1,47 @@
+body {
+    /* Kleuren */
+        --primary-color-white: white;
+        --background-color1: #D92B4D;
+        --background-color2: #F3F1E9;
+        --background-color3: #416AD9;
+        --background-color4: #008273;
+        --footer-background-color: #E7E6DE;
+    
+        --border-color: black;
+    
+    /* Typografie */
+        --normal-text-size: 16px;
+        --font-size-header-s: 20px;
+        --font-size-header-m: 34px;
+        --font-size-header-l: 40px;
+    
+        --line-height-header: 110%;
+    
+        --font-family-bold: "Gilroy-bold";
+        --font-family-black: "Gilroy-black";
+        --font-family-normal: "Gilroy";
+        --font-family-italic: "Gilroy-italic";
+    
+        --letter-spacing: 0%; 
+    }
+     
+    h1 {
+        font-family: var(--font-family-black);
+        font-size: var(--font-size-header-l);
+        line-height: var(--line-height-text);
+        letter-spacing: var(--letter-spacing);
+    }
+    
+    h2 {
+        font-family: var(--font-family-black);
+        font-size: var(--font-size-header-m);
+        line-height: var(--line-height-text);
+        letter-spacing: var(--letter-spacing);
+    }
+    
+    h3 {
+        font-family: var(--font-family-bold);
+        font-size: var(--font-size-header-s);
+        line-height: var(--line-height-text); 
+        letter-spacing: var(--letter-spacing);
+    }
