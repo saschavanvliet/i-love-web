@@ -1,10 +1,9 @@
 body {
     /* Kleuren */
         --primary-color-white: white;
-        --background-color1: #D92B4D;
-        --background-color2: #F3F1E9;
-        --background-color3: #416AD9;
-        --background-color4: #008273;
+        --primary-color-black: black;
+        --background-color-main: pink;
+        --background-color-weloveweb: #e9f3ed;
         --footer-background-color: #E7E6DE;
     
         --border-color: black;
@@ -17,10 +16,10 @@ body {
     
         --line-height-header: 110%;
     
-        --font-family-bold: "Gilroy-bold";
-        --font-family-black: "Gilroy-black";
-        --font-family-normal: "Gilroy";
-        --font-family-italic: "Gilroy-italic";
+        --font-family-bold: "Times New Roman-bold";
+        --font-family-black: "Times New Roman-black";
+        --font-family-normal: "Times New Roman";
+        --font-family-italic: "Times New Roman-italic";
     
         --letter-spacing: 0%; 
     }
@@ -44,4 +43,13 @@ body {
         font-size: var(--font-size-header-s);
         line-height: var(--line-height-text); 
         letter-spacing: var(--letter-spacing);
+    }
+
+    h1, h2, h3, a {
+        color: var(--primary-color-black)
+    }
+
+    a {
+        font-size: var(--normal-text-size);
+        text-decoration: none;
     }

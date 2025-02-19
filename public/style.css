@@ -1,3 +1,7 @@
 body {
-    background: pink;
+    background: var(--background-color-main);
+}
+
+.badbitch {
+    background: var(--background-color-weloveweb);
 }
