@@ -5,3 +5,35 @@ body {
 .badbitch {
     background: var(--background-color-weloveweb);
 }
+
+header {
+    position: relative;
+    z-index: 10; /* Zorgt ervoor dat de header boven de afbeelding blijft */
+    background: rgba(255, 255, 255, 0.8); /* Optioneel: achtergrond om tekst leesbaar te houden */
+}
+
+/* 
+img {
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); 
+    z-index: -1;
+    filter: brightness(70%);
+    padding-top: 2em;
+} */
+
+/* img {
+    object-fit: fill;
+    height: 100%;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%); 
+    z-index: -1;
+    filter: brightness(70%);
+} */
+

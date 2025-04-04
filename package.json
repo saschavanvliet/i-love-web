@@ -1,6 +1,26 @@
 {
+  "name": "i-love-web",
+  "version": "1.0.0",
+  "description": "Houd je leerproces routinematig (chronologisch) bij. Noteer aantekeningen, interessante links en bronnen die je niet wil vergeten waar je later nog naar wil kijken. Voeg je sketchnotes en aantekeningen van de Web Love Web presentaties en andere lezingen toe.",
+  "main": "server.js",
+  "type": "module",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saschavanvliet/i-love-web.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saschavanvliet/i-love-web/issues"
+  },
+  "homepage": "https://github.com/saschavanvliet/i-love-web#readme",
   "dependencies": {
-    "express": "^4.21.2",
-    "liquidjs": "^10.20.3"
+    "express": "^5.1.0"
   }
 }
