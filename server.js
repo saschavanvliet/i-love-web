@@ -3,6 +3,12 @@ import express from 'express'
  // Hierna importeer ik de Liquid package uit de json packages. Liquid zal gebruikt worden om dynamisch te werken in html.  
  // Deze wordt dus ook als dependency via npm geïnstalleerd. 
  import { Liquid } from 'liquidjs'; 
+
+ import { readdir, readFile } from 'node:fs/promises'
+
+ const files = await readdir('content')
+
+ console.log(files)
   
  // Nu maak ik een nieuwe Express applicatie aan, waarin ik de server kan configureren. De server.js is belangrijk om routes bijvoorbeeld aan te kunnen maken. 
  const app = express() 
