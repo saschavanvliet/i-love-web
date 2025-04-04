@@ -6,6 +6,8 @@ import express from 'express'
 
  import { readdir, readFile } from 'node:fs/promises'
 
+ import { marked } from 'marked'
+
  const files = await readdir('content')
 
  console.log(files)
@@ -31,6 +33,17 @@ import express from 'express'
  app.get('/', async function (request, response) { 
      response.render('index.liquid', {files: files}) 
    }) 
+
+ app.get('/:slug', async function(req, res) {
+    console.log(req.params.slug)
+    const fileContents = await readFile('content/' + req.params.slug + '.md', { encoding: 'utf8' })
+    const markedUpFileContents = marked.parse(fileContents)
+    res.render('we-love-web.liquid', {fileContents: markedUpFileContents})
+  })
+
+ app.get('/we-love-web', async function (request, response) { 
+    response.render('we-love-web.liquid', {files: files}) 
+  }) 
 
  app.get('/404', async function (request, response) {
     response.render('404.liquid')

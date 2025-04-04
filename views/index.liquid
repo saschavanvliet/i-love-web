@@ -10,7 +10,7 @@
 {% for file in files %}
 <ul>
     <li>
-        <a href="/{{ file }}">{{ file }}</a>
+        <a href="/{{ file | slice: 0-3}}">{{ file | slice: 0-3}}</a>
     </li>
 </ul>
 {% endfor %}
