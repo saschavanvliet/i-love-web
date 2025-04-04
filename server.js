@@ -29,7 +29,7 @@ import express from 'express'
  app.use(express.urlencoded({extended: true})) 
   
  app.get('/', async function (request, response) { 
-     response.render('index.liquid',) 
+     response.render('index.liquid', {files: files}) 
    }) 
 
  app.get('/404', async function (request, response) {
