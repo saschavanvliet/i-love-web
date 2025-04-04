@@ -1,6 +1,6 @@
 import express from 'express' 
   
- // Hierna heb importeer ik de Liquid package uit de json packages. Liquid zal gebruikt worden om dynamisch te werken in html.  
+ // Hierna importeer ik de Liquid package uit de json packages. Liquid zal gebruikt worden om dynamisch te werken in html.  
  // Deze wordt dus ook als dependency via npm geïnstalleerd. 
  import { Liquid } from 'liquidjs'; 
   
